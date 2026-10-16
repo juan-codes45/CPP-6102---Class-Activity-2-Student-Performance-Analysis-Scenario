@@ -1,0 +1,10 @@
+STUDENT PERFORMANCE REPORT
+========================================
+25/222  Sandra Mutegi     Avg: 75.00  Grade: B
+25/224  Carlos Ndunda     Avg: 87.67  Grade: A
+25/226  Paul Omboga     Avg: 61.00  Grade: C
+25/228  Ruth Mwimali    Avg: 92.33  Grade: A
+----------------------------------------
+Top student    : Ruth Mwimali (92.33)
+Lowest student : Paul Omboga (61.00)
+Class average  : 79.00
